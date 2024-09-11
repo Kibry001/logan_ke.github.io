@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e0e0ff; /* Light purple background */
+    color: #4a004a; /* Dark purple text */
+}
+
+header {
+    background-color: #4a004a; /* Dark purple header */
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    text-align: left;
+}
+
+section {
+    background-color: #d8b3e0; /* Lighter purple for the section */
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #4a004a; /* Dark purple footer */
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
